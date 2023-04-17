@@ -1,3 +1,4 @@
 
-weather_F_app/.idea/weather_F_app.iml
-weather_F_app/.idea/vcs.xml
+.idea/inspectionProfiles/profiles_settings.xml
+venv
+.idea
