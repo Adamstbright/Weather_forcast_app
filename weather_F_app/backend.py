@@ -13,4 +13,4 @@ def get_data(place, forecast_days=None):
 
 
 if __name__ == "__main__":
-    print(get_data(place="Tokyo", forecast_days=3))
+    print(get_data(place="Toddjjd", forecast_days=3))
